@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adityaram0001
+- 👋 Hi, I’m Aditya Ram
 - 👀 I’m interested in new technologies that have the potential to trasform the world and make our planet a better place for future generations to live in.
 - 🌱 I’m currently learning Machine learning, Mathematics - Statistics, Probability, Linear Algebra , Calculus, Data structures and Algorithms.
 - 💞️ I’m looking to collaborate on Real world Data science projects.
